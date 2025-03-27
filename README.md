@@ -1,16 +1,7 @@
-# test_3
+# Bra Alsallfa
 
-A new Flutter project.
+The game "Bra Alsallfa" is a fun social game that relies on intelligence and quick thinking. In each round, all players (except one) receive a secret word. The remaining player, who is "Bra Alsallfa" (which means "out of the topic"), doesn’t know the word.
 
-## Getting Started
+Players must talk about the secret word in a vague way without revealing it directly, while the "Bra Alsallfa" player tries to figure out what the word is based on their conversation. At the end of the round, everyone votes on who they think was out of the loop!
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The game is similar to social deduction games like "Impostor", but it focuses more on wordplay and strategic thinking.
